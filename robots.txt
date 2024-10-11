@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gnerster.github.io/sitemap.html.gz
+Sitemap: https://gnerster.github.io/app/sitemap.html.gz
+Sitemap: https://gnerster.github.io/assets/sitemap.html.gz
+Sitemap: https://gnerster.github.io/css/sitemap.html.gz
+Sitemap: https://gnerster.github.io/includes/sitemap.html.gz
+Sitemap: https://gnerster.github.io/item/sitemap.html.gz
+Sitemap: https://gnerster.github.io/src/sitemap.html.gz
